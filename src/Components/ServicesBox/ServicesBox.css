@@ -1,0 +1,29 @@
+.services__box {
+    background: var(--primary);
+    width: 100%;
+    border-radius: 5rem;
+    height: 23rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    color: var(--light);
+    position: relative;
+    cursor: pointer;
+    transition: all .2s ease;
+}
+
+.services__box:hover {
+    transform: translateY(-1rem);
+}
+
+.services__box>svg {
+    min-height: 10.8rem;
+}
+
+.services__box-title {
+    font-size: 1.6rem;
+
+}
+

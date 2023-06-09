@@ -1,0 +1,55 @@
+.main-button {
+    color: var(--light);
+    border: 0.1rem solid var(--light);
+    padding: 1.2rem 3.6rem;
+    border-radius: 5rem;
+    position: relative;
+    display: block;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .4s ease;
+}
+
+
+.main-button.bg {
+    background: rgba(247, 225, 188, 0.3);
+}
+
+
+.main-button::before,
+.main-button::after {
+    content: '';
+    display: block;
+    width: 5rem;
+    height: 5rem;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border-radius: 50%;
+    z-index: -1;
+    background-color: #F7E1BC;
+    transition: .4s ease;
+}
+
+.main-button::before {
+    top: -1em;
+    left: -1em;
+}
+
+.main-button::after {
+    left: calc(100% + 1em);
+    top: calc(100% + 1em);
+}
+
+.main-button:hover::before,
+.main-button:hover::after {
+    height: 41rem;
+    width: 41rem;
+}
+
+.main-button:hover {
+    color: var(--dark);
+}
+
+.main-button:active {
+    filter: brightness(.8);
+}

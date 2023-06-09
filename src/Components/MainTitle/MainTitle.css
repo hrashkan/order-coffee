@@ -1,0 +1,6 @@
+.main-heading{
+    font-size: 6rem;
+    color: var(--light);
+    font-family: var(--secondary-font);
+    font-weight: 200;
+}

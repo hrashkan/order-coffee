@@ -1,0 +1,311 @@
+{
+  "headerMenu": [
+    {
+      "id": 1,
+      "title": "Home",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 2,
+      "title": "Menus",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 3,
+      "title": "Services",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 4,
+      "title": "Products",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 5,
+      "title": "Blog",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 6,
+      "title": "Contact",
+      "href": "https://react.dev"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Equipment"
+    },
+    {
+      "id": 2,
+      "name": "Type of Coffee"
+    },
+    {
+      "id": 3,
+      "name": "Take away"
+    },
+    {
+      "id": 4,
+      "name": "Beans variant"
+    },
+    {
+      "id": 5,
+      "name": "Pastry"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "img": "/img/index/product1.png",
+      "title": "Robusta"
+    },
+    {
+      "id": 2,
+      "img": "/img/index/product2.png",
+      "title": "house blend"
+    },
+    {
+      "id": 3,
+      "img": "/img/index/product3.png",
+      "title": "arabica"
+    }
+  ],
+  "popular": [
+    {
+      "id": 1,
+      "title": "Chocolate ",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "title": "Double ES ",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "title": "Chocolate ",
+      "price": 40
+    },
+    {
+      "id": 4,
+      "title": "Caramel ",
+      "price": 45
+    },
+    {
+      "id": 5,
+      "title": "Doppio ",
+      "price": 50
+    },
+    {
+      "id": 6,
+      "title": "Espersso ",
+      "price": 30
+    },
+    {
+      "id": 7,
+      "title": "Cappuccino ",
+      "price": 30
+    },
+    {
+      "id": 8,
+      "title": "Latte ",
+      "price": 25
+    }
+  ],
+  "footerMenuAbout": [
+    {
+      "id": 1,
+      "title": "About",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 2,
+      "title": "Our Story",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 3,
+      "title": "FAQ",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 4,
+      "title": "Careers",
+      "href": "https://react.dev"
+    }
+  ],
+  "footerMenuCustomers": [
+    {
+      "id": 1,
+      "title": "Customer",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 2,
+      "title": "Menu",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 3,
+      "title": "Locations",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 4,
+      "title": "Support",
+      "href": "https://react.dev"
+    }
+  ],
+  "footerMenuServices": [
+    {
+      "id": 1,
+      "title": "Services",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 2,
+      "title": "Payment options",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 3,
+      "title": "Refunds & exchanges ",
+      "href": "https://react.dev"
+    },
+    {
+      "id": 4,
+      "title": "Limitation ",
+      "href": "https://react.dev"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Tehran"
+    },
+    {
+      "id": 2,
+      "name": "Anzali"
+    },
+    {
+      "id": 3,
+      "name": "New york"
+    },
+    {
+      "id": 4,
+      "name": "London"
+    },
+    {
+      "id": 5,
+      "name": "Paris"
+    }
+  ],
+  "coffee": [
+    {
+      "id": 1,
+      "cat": "Espresso"
+    },
+    {
+      "id": 2,
+      "cat": "Milk-based drinks"
+    },
+    {
+      "id": 3,
+      "cat": "Cold drinks"
+   
+    },
+    {
+      "id": 4,
+      "cat": "Coffee desserts"
+     
+    }
+  ],
+  "EspressoItems": [
+    {
+      "id": 1,
+      "name": "Ristretto"
+    },
+    {
+      "id": 2,
+      "name": "Americano"
+    },
+    {
+      "id": 3,
+      "name": "Espresso Macchiato"
+    },
+    {
+      "id": 4,
+      "name": "Cortado"
+    },
+    {
+      "id": 5,
+      "name": "Espresso con Panna"
+    }
+  ],
+  "Milk-based": [
+    {
+      "id": 1,
+      "name": "Caffe Latte"
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino"
+    },
+    {
+      "id": 3,
+      "name": "Flat White"
+    },
+    {
+      "id": 4,
+      "name": "Mocha Latte"
+    },
+    {
+      "id": 5,
+      "name": "Chai Latte"
+    }
+  ],
+  "coldDrinks": [
+    {
+      "id": 1,
+      "name": "Iced Coffee"
+    },
+    {
+      "id": 2,
+      "name": "Cold Brew Coffee"
+    },
+    {
+      "id": 3,
+      "name": "Nitro Cold Brew Coffee"
+    },
+    {
+      "id": 4,
+      "name": "Iced Latte"
+    },
+    {
+      "id": 5,
+      "name": "Iced Mocha"
+    }
+  ],
+  "deserts": [
+    {
+      "id": 1,
+      "name": "Tiramisu"
+    },
+    {
+      "id": 2,
+      "name": "Coffee Cake"
+    },
+    {
+      "id": 3,
+      "name": "Affogato"
+    },
+    {
+      "id": 4,
+      "name": "Mocha Brownies"
+    },
+    {
+      "id": 5,
+      "name": "Espresso Cheesecake"
+    }
+  ]
+}
